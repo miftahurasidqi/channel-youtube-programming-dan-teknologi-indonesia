@@ -136,3 +136,6 @@
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+
+
+tes edit file
